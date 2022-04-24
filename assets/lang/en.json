@@ -1,0 +1,93 @@
+{
+  "app_name": "Clinica",
+  "name": "Nom",
+  "password": "le mot de passe",
+  "login": "CONNEXION",
+  "error": "Erreur",
+  "username": "Nom d'utilisateur",
+  "age": "age",
+  "skip": "Skip",
+  "code": " code?",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "save": "Save",
+  "Phone number": "Phone number",
+  "whatsapp Phone number": "Phone number whatsapp",
+  "profile": "PROFILE",
+  "errorname": "not name",
+  "Personal_Information": "Information du patient",
+  "work": "Work",
+  "selected_work": "Selected Work",
+
+
+
+
+
+  "Nozzle": "Nozzle",
+  "Toilet": "Toilet",
+  "Sinks": "Sinks",
+  "plumbingg": "Plumbing",
+  "Blockage": "Blockage",
+  "filtrate": "filtrate",
+  "Bathtub": "Bathtub",
+  "Install or renew": "Install or renew",
+
+
+  "Maps": "Maps",
+
+
+  "SignUp": "SIGNUP Industrial",
+  "SignIn": "Sign In user",
+  "or": "OR",
+
+  "welcome Industrial": "The data has been successfully registered",
+  "Country name": "Country Name",
+  "ahmed": "You will be contacted by WhatsApp within 24 hours as soon as possible",
+
+  "error_user_name":"Please write a username",
+  "error_internet": "Internet connect error",
+  "error_all": "error, please try again later",
+  "number_not_founf": "Number not found, please sign up first",
+  "Pleasewait": "Please wait...",
+  "governorates": "governorates",
+
+
+  "work_app": "The service works in Sohag governorate",
+
+  "newregister": "The data is being completed and reviewed, and we will contact you via",
+
+
+  "Home": "Domicile",
+  "evaluation": "evaluation",
+  "My favorites": "My favorites",
+  "My Reviews": "My Reviews",
+  "Select Language": "Choisir la langue",
+  "Language": "Langue",
+  "language English": "Français",
+  "language arabic": "arabe",
+  "Dark theme": "Thème sombre",
+  "Logout": "Se déconnecter",
+  "Menu": "Menu",
+  "Prices": "Prices",
+  "Captain": "Captain",
+  "Reception": "Reception",
+  "Drinks": "Drinks",
+  "arakeel": "arakeel",
+  "general": "general",
+  "food": "Food",
+  "service": "service",
+  "Speed of application": "Speed of application",
+  "Settings": "Settings",
+  "iP": "IP Address",
+  "back": "back",
+  "refresh": "refresh",
+  "report": "report",
+  "Patients": "Patients",
+  "Ajouter nouveau": "Ajouter nouveau",
+  "Voir liste": "Voir liste",
+  "Rendez-vous": "Rendez-vous",
+  "Consultations": "Consultations",
+  "Docteurs": "Docteurs",
+  "Utilisateurs": "Utilisateurs",
+  "Medicaments": "Medicaments"
+}

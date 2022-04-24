@@ -1,0 +1,94 @@
+{
+  "app_name": "عيادة",
+  "name": "اسم",
+  "password": "باسورد",
+  "login": "دخول",
+  "error": "خطاء",
+  "username": "اسم المستخدم",
+  "age": "السن / العمر",
+  "skip": "تخطي",
+  "code": " كود التحقق ?",
+  "ok": "نعم",
+  "cancel": "لا",
+  "save": "حفظ",
+  "Phone number": "رقم الهاتف",
+  "whatsapp Phone number": "رقم الهاتف واتساب",
+  "profile": "الملف الشخصي",
+  "errorname": "لا يوجد اسم",
+  "Personal_Information": "معلومات شخصية",
+  "work": "متخصص",
+  "selected_work": "اختيار تخصص العمل",
+
+
+
+
+
+
+  "Nozzle": "دش",
+  "Toilet": "مرحاض",
+  "Sinks": "خلاط",
+  "plumbingg": "صنبور",
+  "Blockage": "انسداد",
+  "filtrate": "ترشيح",
+  "Bathtub": "بانيو",
+  "Install or renew": "التثبيت أو التجديد",
+
+
+  "Maps": "خرائط",
+
+
+  "SignUp": "تسجيل صنايعي",
+  "SignIn": "تسجيل مستخدم",
+  "or": "أو",
+
+  "welcome Industrial": "تم تسجيل البيانات بنجاح",
+  "Country name": "أسم المحافظة",
+  "ahmed": "سوف يتم التواصل بك على طريق الواتس فى خلال ٢٤ساعة اقرب وقت ",
+
+  "error_user_name":"يرجى كتابة أسم المستخدم",
+  "error_internet": "خطأ فى الاتصال بالانترنت",
+  "error_all": "خطأ ، يرجى المحاولة مرة أخرى في وقت لاحق",
+  "number_not_founf": "الرقم غير موجود ، الرجاء التسجيل أولا",
+  "Pleasewait": "يرجي الانتظار...",
+  "governorates": "المحافظات",
+
+
+  "work_app": "الخدمة تعمل فى محافظة سوهاج",
+
+  "newregister": "جارى استكمال البيانات والمراجعه والتواصل بك عن طريق ",
+
+
+  "Home": "القائمة الرئسية",
+  "evaluation": "تقييم",
+  "My favorites": "مفضلتي",
+  "My Reviews": "ملاحظاتي",
+  "Select Language": "اختار اللغة",
+  "Language": "اللغات",
+  "language English": "الإنجليزية",
+  "language arabic": "العربية",
+  "Dark theme": "مظهر ليلى",
+  "Logout": "تسجيل خروج",
+  "Menu": "قائمة الطعام",
+  "Prices": "الأسعار",
+  "Captain": "الكابتن",
+  "Reception": "الاستقبال",
+  "Drinks": "المشروبات",
+  "arakeel": "الاراكيل",
+  "general": "الاجواء العامة",
+  "food": "الطعام",
+  "service": "الخدمة",
+  "Speed of application": "سرعة تقديم الطلب",
+  "Settings": "الإعدادات",
+  "iP": "عنوان IP",
+  "back": "رجع",
+  "refresh": "تحديث",
+  "report": "التقارير",
+  "Patients": "مرضى",
+  "Ajouter nouveau": "اضف جديد",
+  "Voir liste": "انظر القائمة",
+  "Rendez-vous": "ميعاد",
+  "Consultations": "إستشارة",
+  "Docteurs": "الأطباء",
+  "Utilisateurs": "المستخدمون",
+  "Medicaments": "المستخدمون"
+}
